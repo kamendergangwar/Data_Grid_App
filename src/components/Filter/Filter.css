@@ -1,0 +1,11 @@
+/* Filter.css */
+.filter {
+    margin-top: 20px;
+  }
+  
+  .filter select,
+  .filter input,
+  .filter button {
+    margin-right: 5px;
+  }
+  

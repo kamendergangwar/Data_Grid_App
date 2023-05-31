@@ -1,0 +1,9 @@
+/* Search.css */
+.search {
+    margin-top: 20px;
+  }
+  
+  .search input,
+  .search button {
+    margin-right: 5px;
+  }
